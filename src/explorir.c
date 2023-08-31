@@ -1,9 +1,6 @@
 /* ****************************************************************************/
 /** ExplorIr CO2 Sensor Function Library
 
-  @Company
-    Myriad Sensors
-
   @File Name
     explorir.c
 
